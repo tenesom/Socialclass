@@ -1,0 +1,92 @@
+---
+title: "Makundi ya tabia"
+author: "benjamini mpinga"
+date: "2023-02-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Tabia hizo kuu ni 
+
+**1.MELANKOLIKI**
+
+**2.KARELIKI**
+                  
+**3.SANGWINI**
+                  
+**4.FLAGMETIKI**
+                  
+***Tabia hizo zote zinatofautisha watu katika jamii,lakini haswa baadhi zinageuka kuwa sifa ya upekee kwa baadhi ya watu katika jamii zetu.aidha ni sifa hitajika au ni sifa mbaya.lakini kwa ujumla tabia zote zina pande zote mbili Uzuri/Uimara au Ubaya/udhaifu wake***
+<!--more-->
+
+**Je,nitajuaje tabia ya mtu kwa haraka?**
+
+Kwa mfano katika matukio ya kupita kama,Safarini au Sherehe au Msiba.kumjua mtu tabia yake ya moja kwa moja ni vigumu kidogo,maana hupaswi kuwa mwepesi wa kutoa hitimisho.hivyo yakubidi upate muda wa kutosha kukaa na mtu ndipo utagundua kirahisi na kwa undani tabia yake ni ya aina gani.
+
+Katika jamii tunayoishi tumezungukwa na watu pamoja na vitu mbalimbali.kila kimoja kikiwa na umuhimu wa kipekee kwa kingine.yaani maingiliano au mategemeano ya watu,vitu na viumbe hai vingine.
+
+Japo kuna masomo mengi yanayohusu maingiliano au mategemeano kati ya viumbe hai na mazingira,ila leo nataka tujifunze kidogo kuhusu tabia kuu nne(4) za wanadamu.namna gani ya kuzigundua/kuzitambua na jinsi gani ya kuchukulina/kuishi nao,hao watu wenye tabia hizo.
+
+Watu wengi tumekuwa wepesi kutengeneza marafiki bila kujali tunataka marafiki wa aina gani,tumejikuta tukiingia katika uhasama,uadui mkubwa na walewale tuliotengeneza nao urafiki.hii inatokana na uelewa mdogo wa tabia na mtindo wa maisha yetu sisi wenyewe na maisha ya wengine pia.kwa sababu huwezi ukajua tabia za watu kama wewe mwenyewe hujijui ni mtu wa tabia ya aina gani.
+
+hivyo kupitia somo hili tutajifunza kitu cha muhimu sana kuhusu aina za tabia ili kwanza tujitambue sisi wenyewe tuna tabia zipi,ili tuweze kujua na tabia za wengine,kisha kutambua huko kutuwezeshe kutupa/kutujengea namna bora ya kuchagua marafiki au jinsi ya kuishi/kuchukuliana na marafiki tulionao.
+
+Kwanza nikufahamishe tu kwamba wanadamu wote katika hali ya maumbile wamegawanyika katika sehemu kuu tatu,nazo ni **1.Jinsia ya kiume(ME)**                                                      **2.Jnsia ya kike(KE)**
+                                            **3.Jinsia  mchanganyiko(abnormal)** 
+                                            
+Pili nikufahamishe pia kuwa katika wanadamu takribani wote,wana tabia kuu nne(4),hata wale wenye maradhi ya akili na watoto wadogo ambao bado hawajafikia viwango vya kuzifikirisha akili zao katika mambo ya kijamii kwa ujumla,wote wanaingia katika kundi hili.
+
+Tabia hizo kuu ni **1.MELANKOLIKI,**
+                  **2.KARELIKI,**
+                  **3.SANGWINI and**
+                  **4.FLAGiMETIKI**
+                  
+Tabia hizo zote zinatofautisha watu katika jamii,lakini haswa baadhi zinageuka kuwa sifa ya upekee kwa baadhi ya watu katika jamii zetu.aidha ni sifa hitajika au ni sifa mbaya.lakini kwa ujumla tabia zote zina pande zote mbili **Uzuri/Uimara na Ubaya/udhaifu wake**
+
+**1.MELANKOLIKI:**
+Watu hawa mimi binafsi napenda kuwaita **(chuma cha reli)**. kwa hakika ni watu imara.kuanzia mitizamo mpaka matendo.Hodari katika kazi na wachangiaji mahiri wa mijadala katika kujenga zaidi.hawapendi mizaha ni watu wenye hasira sana pale unapokwenda kinyume na maatakwa yao,wanajiamini sana na ni watendaji wazuri wanapenda kuwa maarufu kwa mambo wanayoyafanya.kiufupi watu hawa wakitaka lao basi lazima litimie iwe kwa nguvu au hiyari,ni watu wa maamuzi,wana tamaa ya mafanikio ya haraka.ni waaminifu sana kwa vitu vyao na vya wengine haswa mali za uma,wanaweza kufanya lolote ilimradi tu watimize malengo yao, watu hawa ukiwapa kazi basi ni majembe haswa pia wana akili sana za masomo na maisha kwa ujumla.
+
+**UDHAIFU WA MELANKOLIKI:**
+Shida ya watu hawa kubwa ya kwanza ni kwamba hawakubali kosa kirahisi,hata kama ni la dhahiri,mara nyingi hujiona ni wakamilifu wa tabia na matendo.pia hawapendi sana kusikiliza wengine,wanaamini wao pekee ndo wapo sahihi,huwa wanabeba vinyongo/visasi endapo ukiwakosea,si wepesi kusamehe.mara nyingi wanapenda kulazimisha watu wafuate mambo/mawazo yao,hawapendi kushindwa, ni wepesi kukurupukia mambo bila kujali madhara yake hivyo hujikuta wakipata hasara kubwa.kiufupi hawaambiliki, huwa hawana marafiki wengi,na wakipata rafiki ni rahisi kupishana na kuachana kabisa,wanapenda ushindani.kwa mapungufu yao hayo hujikuta wakitengwa au kuchukiwa na watu wenye tabia zingine, ni wagumu sana kukabiliana na ukweli unaohusu mapungufu yao.
+
+**JINSI YA KUISHI/KUCHUKULIANA NA MELANKOLIKI:**
+Ukitaka kuishi na watu hawa kwa amani na upendo basi wewe penda kuwasikiliza zaidi wao na kukubaliana nao,wape nafasi pindi wanapotaka kusema au kutenda mambo yao,usiwakosoe hadharani mtajenga uadui,wanapenda kujua mipango ya watu na malengo ya watu wengine kwa sababu wanapenda ushindani.hivyo ukiwa unampa mipango ya wengine anafurahi sana.lakini pia usiwakosoe mara kwa kwa mara huwa hawawezi kukabiliana na ukweli kwa sababu ya mapungufu yao.waheshimu usifanye ushindani nao huwa wana visasi na hasira za haraka.ni watu wa kupenda sifa hivyo ukiwasifia huwa wanapenda sana,mara nyingi waunge mkono katika mambo yao, basi mtaishi kwa amani sana.
+
+**SANGWINI:**
+Watu hawa huitwa **(komedi)**. ni wapenda masihara sana yaani kama sangwini akikutana na melankoliki basi hapo hakuna maisha,watu hawa wanapenda michezo,utani mwingi haswa katika kazi,ni watu wa mizaha hata katika mambo ya msingi anaweza akafanya mzaha,mfano mnaweza mkawa katika kikao cha kujadili maendeleo au kusuluhisha watu basi yeye akaleta mizaha tu,ni wacheshi,wanapenda utani sana wana ushawishi sana,ni wazungumzaji kupita kiasi hawaishiwi maneno ila yote ni ya mizaha na utani, wanapenda kujulikana(umaarufu).hawana hasira za haraka,wana marafiki wengi, mara nyingi jamii inawapenda kwa ucheshi na ushirikiano wao na watu,ni wepesi kupata marafiki.
+
+**UDHAIFU WA SANGWINI:**
+watu hawa mara nyingi hawawezi kufanya kazi zinazohitaji umakini,kwa mfano ngazi za maamuzi na uongozi katika mambo yanayohusu maisha ya wau.hawaaminiki sana na jamii kwa sababu ya tabia yao ya masihara,huwa hawajui mipaka ya utani hivyo wakati mwingine anajikuta amewakwaza watu,huwa wanatabia ya uongo sana,uchonganishi na umbea.
+
+**JINSI YA KUCHUKULIANA/KUISHI NA SANGWINI:**
+Penda kumpa sapoti/kumuunga mkono katika mwendelezo wa utani,usimpe nafasi kusimamia mambo yako ya msingi,usipende kumtukana maana si wepesi wa hasira hivyo utajikuta unakwazika mwenyewe hivyo pale wanapoleta utani au masihara basi wewe mpuuzie.muoneshe mpo pamoja.washirikishe katika kusherehesha au kukaribisha watu katika sherehe.michezo au hafla za kijamii hapo mtapatana sana.
+
+**KARELIKI:**
+Watu hawa mara nyingi huitwa**(wwatu makini,smart people)**. huwa ni watulivu,hawana papara na mambo hupenda kuyjua mambo kiundani sana kabla hajalifanya au kuzungumza,hawaamini kila jambo ni watafiti,hata mawazo yao pia hupenda kuyapima kama yaapo sahihi au la.huwapa watu nafasi ya kuwasikiliza ni waamuzi wazuri,washauri wazuri,wapangiliaji wa mambo kwa mikakati.mara nyingi hupenda kujifunza,ni waongeaji wazuri sana,ni rahisi kutengeneza marafiki wapya.wanaushawishi katika jamii kwenye mambo yote ya mipango na maamuzi.wana uwezo wa kimasomo.ni watu wa kiasi,hawana makuu,hawapendi sifa,ni watetezi wazuri wa watu.ni waaminifu.huwa wanapata bahati ya kupendwa sana na watu.
+
+**UDHAIFU WA KARELIKI:**
+Kama tulivyoona watu hawa walivyo na sifa nyingi kama malaika na kweli wako hivyo, ila wana udhaifu ambao pia ni hatari na mbaya sana katika maisha,kwanza ni wavivu,hawapendi kazi zenye changamoto nyingi, yaani misukosuko,mara nyingi wanajiepusha na changamoto, jambo hilo linawafanya wasifanikiwe sana kimaisha,tofauti na melankoliki ambaye yeye ni **mzee wa sukuma twende litakalotokea na litokee**,pia watu hawa ni wazito kufanya maamuzi hivyo jambo linaweza likaharibikia mikononi mwao bila maamuzi ya haraka.lakini pia hawana nguvu sana za mwili jambo linalowasababishia wakati mwingine kushindwa kukabiliana na maisha magumu,pale wanapokosa nafasi wanazoweza kutenda vizuri,ni wepesi kupoteza marafiki japo wanawapata kirahisi huwa hawana tabia ya kujali sana watu wanapokuwa nao mbali,yaani kama mawasiliano au kutembeleana.
+
+**JINSI YA KUISHI/KUCHUKULIANA NA KARELIKI:**
+Watu hawa hawana changamoto sana kuishi na kwa sababu ya asili ya tabia zao,hivyo wewe penda kuwashauri na kuwasihi wajaribu kufanya vile vitu unavyoona wanaweza kuvifanya kwa usahihi,utakuwa umemsaidia sana.pia penda kuwahimiza maana ni wazito,ila penda sana kuwashauri maana ni wepesi kupokea mawazo yaani ni waelewa.watie moyo pale wanapofeli basi hapo utakuwa umempata kabisaaa.
+
+**FLAGIMETIKI:**
+Watu hawa nuwa wanaitwa **(wandani)**. hawa ni watu wasiri mnooo,yaani unaweza ukaishi naye ni mwanao,au mkeo,au rafiki au jirani,lakini kitu utaishia kujua ni salamu.anaweza akaumwa asikwambie,akafaulu au asiseme,akapatwa na tatizo au kheri asikwambie.wanaitwa wandani/wasiri.ni watu wapole sana kupita kiasi,sio wazungumzaji kabisa.wakimya,hawana marafiki wengi.hawapendi mijumuiko,sio wachangiaji wa mada.huwa wanajiamini peke yao.ni wachapakazi sana.wanakaa wapweke muda mwingi.huwa wanauwezo mzuri kimasomo,huwa wanapenda kweli.ni watendaji waaminifu katika kazi hawapendi kabisa mashindano na watu wengine,ni watunzaji wazuri wa siri za watu au ofisi.
+
+**UDHAIFU WA FLAGIMETIKI:**
+Watu hawa udhaifu wao mkubwa ni siri wanazozibeba,huwa zinawatesa na wakati mwingine kuwaletea madhara makubwa katika maisha,pili upweke wa kuwa peke yao huwapa msongo wa mawazo,ni rahisi kukosea maana hawana mashirikiano mazuri na jamii(umoja),huwa hawaamini watu wengine.wanatabia ya uongo mara nyingi.wanabeba hasira nyingi na visasi.ni wakali sana.anaweza akawa na suluhisho la jambo na asilitoe kwa watu.wana tabia ya uchoyo.wakitaka lao mpaka lifanikiwe ila kwa siri.ni waoga sana.
+
+**JINSI YA KUISHI/KUCHUKULIANA NA FLAGIMETIKI:**
+Watu hawa hapendi kusemeshwa mara kwa mara hivyo ukiishi naye wewe penda kumpa maelekezo kamili kisha muache aendelee na majukumu yake.ukitaka kujua mambo yake kaa naye kwa muda kidogo usikurupuke kumuuliza subiri mpaka yeye akuamini,usipende kumkwaza kwa chochote maana wanabeba visasi,wanapenda kubembelezwa,usipende kuwaambia habari za wengine hawapendi sana,ukimpa kazi za siri kama za ofisi au serikali basi umempa mtu sahihi.ukiwa naye mjali yeye sio mtu mwingine maana ni wabinafsi.
+
+ ***Kabla hatujafunga mada yetu basi hembu tusome kisa hiki***
+
+kawaida yapo mazungumzo yanayoweza kukupa picha ya mtu unayekabiliana naye.   **Mfano:**Kwenye daladala,ni sehemu rahisi zaidi kupata watu wenye tabia zote.**"Abiria mmoja kapungukuwa nauli,kampa kondakta nauli pungufu,kondakta anamwambia *"aisee nimalizie nauli yangu mzee baba"* abiria anajibu *"mzee sina nisaidie"* mara mzozo unaanza ndani ya gari.basi ukiwa makini hapa utagundua tabia za watu kirahisi tu."**Kwani Melankoliki lazima atasema tu "**Watu wengine bhana kwani mlikotoka hamkujua mtapanda magari? kazi usumbufu tu,lipa nauli ya watu bhana au ushuke,hatutaki usumbufu sisi**" Sangwini naye hawezi kumezea utamsikia tu atasema **Wewe mtoto wa kiume unapanda gari huna nauli unategemea nini,ukalale kwa konda?**basi hapo kuna mawili aidha watu wacheke au ugomvi uhamie kwa sangwini.Lakini haitaishia hapo tu,lazima Kareliki achangie mada maana hawa wote ni waongeaji ila watabia tofauti basi utamsikia atasema **Konda kwani hiyo nauli yake imepelea kiasi gani? kisha kama anayo utaona anaingia mfukoni anamlipia.** ila mtu pekee hutamsikia ni Flagimetiki,yeye kimyaa kama hayupo vile.nadhani hali kama hiyo kwenye hicho kisa wengi mumeshakutana nazo,na ni dhahiriunaanza kunielewa kwa kina kile nilichokifundisha.
+
+Kwa au ufupi sana nadhani nimejitahidi kukudadavulia tabia hizo ambazo ni imani yangu kuwa utakuwa sasa unawatazama watu kwa jicho na uelewa tofauti na mwanzo.ikiwa ni Mume wako,Mke wako.Mtoto,Jirani,Rafiki au hata watu wengine ambao huna maingiliano nao.
+
+**Related Posts:**
+
